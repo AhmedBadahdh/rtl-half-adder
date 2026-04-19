@@ -180,3 +180,185 @@
 04/19/2026 08:26:00 (153605):   Using license server srv01.
 04/19/2026 08:26:00 (153605): Job creation completed with status 0 (time 0).
 04/19/2026 08:26:00 (153605): Exit completed with status 0 (time 0).
+04/19/2026 09:12:54 (663783 ncsim): Initialization started (12.04-s017)...
+04/19/2026 09:12:54 (663783): FLEXnet version 11.11.1.1 build 119913
+04/19/2026 09:12:54 (663783): Process ID 129770
+04/19/2026 09:12:54 (663783): Creating a new job ...
+04/19/2026 09:12:54 (663783): Validating server path: 5280@srv01
+04/19/2026 09:12:54 (663783): Server path validation status: 0
+04/19/2026 09:12:54 (663783):   Configuration of license path is '5280@srv01'.
+04/19/2026 09:12:54 (663783):   Configuration of recheck interval minimum is 290.
+04/19/2026 09:12:54 (663783):   Configuration of 2000000000 maximum retry calls.
+04/19/2026 09:12:54 (663783):   Configuration of sleep time value of 0.
+04/19/2026 09:12:54 (663783):   Configuration of display specification is ':15.0'.
+04/19/2026 09:12:54 (663783): Storage of server list started...
+04/19/2026 09:12:54 (663783): Server list saved with status 0 (time 0).
+04/19/2026 09:12:54 (663783):   Licenses will be checked out using EQ07@srv01(:15.0).
+04/19/2026 09:12:54 (663783):   (System spec would have been EQ07@srv01(/dev/pts/29) )
+04/19/2026 09:12:54 (663783):   Using license server srv01.
+04/19/2026 09:12:54 (663783): Job creation completed with status 0 (time 0).
+04/19/2026 09:12:54 (663783): Creating a new job ...
+04/19/2026 09:12:54 (663783):   Configuration of license path is '5280@srv01'.
+04/19/2026 09:12:54 (663783):   Configuration of recheck interval minimum is 290.
+04/19/2026 09:12:54 (663783):   Configuration of 2000000000 maximum retry calls.
+04/19/2026 09:12:54 (663783):   Configuration of sleep time value of 0.
+04/19/2026 09:12:54 (663783):   Configuration of display specification is ':15.0'.
+04/19/2026 09:12:54 (663783): Storage of server list started...
+04/19/2026 09:12:54 (663783): Server list saved with status 0 (time 0).
+04/19/2026 09:12:54 (663783):   Licenses will be checked out using EQ07@srv01(:15.0).
+04/19/2026 09:12:54 (663783):   (System spec would have been EQ07@srv01(/dev/pts/29) )
+04/19/2026 09:12:54 (663783):   Using license server srv01.
+04/19/2026 09:12:54 (663783): Job creation completed with status 0 (time 0).
+04/19/2026 09:12:54 (663783): Creating a new job ...
+04/19/2026 09:12:54 (663783):   Configuration of license path is '5280@srv01'.
+04/19/2026 09:12:54 (663783):   Configuration of recheck interval minimum is 290.
+04/19/2026 09:12:54 (663783):   Configuration of 2000000000 maximum retry calls.
+04/19/2026 09:12:54 (663783):   Configuration of sleep time value of 0.
+04/19/2026 09:12:54 (663783):   Configuration of display specification is ':15.0'.
+04/19/2026 09:12:54 (663783): Storage of server list started...
+04/19/2026 09:12:54 (663783): Server list saved with status 0 (time 0).
+04/19/2026 09:12:54 (663783):   Licenses will be checked out using EQ07@srv01(:15.0).
+04/19/2026 09:12:54 (663783):   (System spec would have been EQ07@srv01(/dev/pts/29) )
+04/19/2026 09:12:54 (663783):   Using license server srv01.
+04/19/2026 09:12:54 (663783): Job creation completed with status 0 (time 0).
+04/19/2026 09:12:54 (663783): Creating a new job ...
+04/19/2026 09:12:54 (663783):   Configuration of license path is '5280@srv01'.
+04/19/2026 09:12:54 (663783):   Configuration of recheck interval minimum is 290.
+04/19/2026 09:12:54 (663783):   Configuration of 2000000000 maximum retry calls.
+04/19/2026 09:12:54 (663783):   Configuration of sleep time value of 0.
+04/19/2026 09:12:54 (663783):   Configuration of display specification is ':15.0'.
+04/19/2026 09:12:54 (663783): Storage of server list started...
+04/19/2026 09:12:54 (663783): Server list saved with status 0 (time 0).
+04/19/2026 09:12:54 (663783):   Licenses will be checked out using EQ07@srv01(:15.0).
+04/19/2026 09:12:54 (663783):   (System spec would have been EQ07@srv01(/dev/pts/29) )
+04/19/2026 09:12:54 (663783):   Using license server srv01.
+04/19/2026 09:12:54 (663783): Job creation completed with status 0 (time 0).
+04/19/2026 09:12:54 (663783): Initialization completed with status 0 (time 0).
+04/19/2026 09:12:54 (663783): Check-out started ....
+04/19/2026 09:12:54 (663783): Checking out 1 license(s) for Incisive_HDL_Simulator 15.200...
+04/19/2026 09:12:54 (663783): Storage of server list started...
+04/19/2026 09:12:54 (663783): Server list saved with status 0 (time 0).
+04/19/2026 09:12:54 (663783): Creating a new job ...
+04/19/2026 09:12:54 (663783): Validating server path: 5280@srv01
+04/19/2026 09:12:54 (663783): Server path validation status: 0
+04/19/2026 09:12:54 (663783):   Configuration of license path is '5280@srv01'.
+04/19/2026 09:12:54 (663783):   Configuration of recheck interval minimum is 290.
+04/19/2026 09:12:54 (663783):   Configuration of 2000000000 maximum retry calls.
+04/19/2026 09:12:54 (663783):   Configuration of sleep time value of 0.
+04/19/2026 09:12:54 (663783):   Configuration of display specification is ':15.0'.
+04/19/2026 09:12:54 (663783): Storage of server list started...
+04/19/2026 09:12:54 (663783): Server list saved with status 0 (time 0).
+04/19/2026 09:12:54 (663783):   Licenses will be checked out using EQ07@srv01(:15.0).
+04/19/2026 09:12:54 (663783):   (System spec would have been EQ07@srv01(/dev/pts/29) )
+04/19/2026 09:12:54 (663783):   Using license server srv01.
+04/19/2026 09:12:54 (663783): Job creation completed with status 0 (time 0).
+04/19/2026 09:12:54 (663783): Check-out completed with status -5 (time 0).
+04/19/2026 09:12:54 (663783): Check-out started ....
+04/19/2026 09:12:54 (663783): Checking out 1 license(s) for Xcelium_Limited_Single_Core 16.000...
+04/19/2026 09:12:54 (663783): Storage of server list started...
+04/19/2026 09:12:54 (663783): Server list saved with status 0 (time 0).
+04/19/2026 09:12:54 (663783): Creating a new job ...
+04/19/2026 09:12:54 (663783): Validating server path: 5280@srv01
+04/19/2026 09:12:54 (663783): Server path validation status: 0
+04/19/2026 09:12:54 (663783):   Configuration of license path is '5280@srv01'.
+04/19/2026 09:12:54 (663783):   Configuration of recheck interval minimum is 290.
+04/19/2026 09:12:54 (663783):   Configuration of 2000000000 maximum retry calls.
+04/19/2026 09:12:54 (663783):   Configuration of sleep time value of 0.
+04/19/2026 09:12:54 (663783):   Configuration of display specification is ':15.0'.
+04/19/2026 09:12:54 (663783): Storage of server list started...
+04/19/2026 09:12:54 (663783): Server list saved with status 0 (time 0).
+04/19/2026 09:12:54 (663783):   Licenses will be checked out using EQ07@srv01(:15.0).
+04/19/2026 09:12:54 (663783):   (System spec would have been EQ07@srv01(/dev/pts/29) )
+04/19/2026 09:12:54 (663783):   Using license server srv01.
+04/19/2026 09:12:54 (663783): Job creation completed with status 0 (time 0).
+04/19/2026 09:12:54 (663783): Check-out completed with status -5 (time 0).
+04/19/2026 09:12:54 (663783): Check-out (Increment) started ....
+04/19/2026 09:12:54 (663783): Checking out 1 license(s) for Incisive_Enterprise_Simulator 15.200...
+04/19/2026 09:12:54 (663783): Storage of server list started...
+04/19/2026 09:12:54 (663783): Server list saved with status 0 (time 0).
+04/19/2026 09:12:54 (663783): Creating a new job ...
+04/19/2026 09:12:54 (663783): Validating server path: 5280@srv01
+04/19/2026 09:12:54 (663783): Server path validation status: 0
+04/19/2026 09:12:54 (663783):   Configuration of license path is '5280@srv01'.
+04/19/2026 09:12:54 (663783):   Configuration of recheck interval minimum is 290.
+04/19/2026 09:12:54 (663783):   Configuration of 2000000000 maximum retry calls.
+04/19/2026 09:12:54 (663783):   Configuration of sleep time value of 0.
+04/19/2026 09:12:54 (663783):   Configuration of display specification is ':15.0'.
+04/19/2026 09:12:54 (663783): Storage of server list started...
+04/19/2026 09:12:54 (663783): Server list saved with status 0 (time 0).
+04/19/2026 09:12:54 (663783):   Licenses will be checked out using EQ07@srv01(:15.0).
+04/19/2026 09:12:54 (663783):   (System spec would have been EQ07@srv01(/dev/pts/29) )
+04/19/2026 09:12:54 (663783):   Using license server srv01.
+04/19/2026 09:12:54 (663783): Job creation completed with status 0 (time 0).
+04/19/2026 09:12:54 (663783): Check-out (Increment) completed with status -5 (time 0).
+04/19/2026 09:12:54 (663783): Check-out started ....
+04/19/2026 09:12:54 (663783): Checking out 1 license(s) for Incisive_Enterprise_Verifier 15.200...
+04/19/2026 09:12:54 (663783): Storage of server list started...
+04/19/2026 09:12:54 (663783): Server list saved with status 0 (time 0).
+04/19/2026 09:12:54 (663783): Creating a new job ...
+04/19/2026 09:12:54 (663783): Validating server path: 5280@srv01
+04/19/2026 09:12:54 (663783): Server path validation status: 0
+04/19/2026 09:12:54 (663783):   Configuration of license path is '5280@srv01'.
+04/19/2026 09:12:54 (663783):   Configuration of recheck interval minimum is 290.
+04/19/2026 09:12:54 (663783):   Configuration of 2000000000 maximum retry calls.
+04/19/2026 09:12:54 (663783):   Configuration of sleep time value of 0.
+04/19/2026 09:12:54 (663783):   Configuration of display specification is ':15.0'.
+04/19/2026 09:12:54 (663783): Storage of server list started...
+04/19/2026 09:12:54 (663783): Server list saved with status 0 (time 0).
+04/19/2026 09:12:54 (663783):   Licenses will be checked out using EQ07@srv01(:15.0).
+04/19/2026 09:12:54 (663783):   (System spec would have been EQ07@srv01(/dev/pts/29) )
+04/19/2026 09:12:54 (663783):   Using license server srv01.
+04/19/2026 09:12:54 (663783): Job creation completed with status 0 (time 0).
+04/19/2026 09:12:54 (663783): Check-out completed with status -5 (time 0).
+04/19/2026 09:12:54 (663783): Check-out started ....
+04/19/2026 09:12:54 (663783): Checking out 1 license(s) for Xcelium_Single_Core 16.000...
+04/19/2026 09:12:54 (663783): Storage of server list started...
+04/19/2026 09:12:54 (663783): Server list saved with status 0 (time 0).
+04/19/2026 09:12:54 (663783):   (Checked out from file '5280@srv01',
+             line '25.0 31-jan-2027 10 5F7C218CEAE96B2F7BDD ')
+04/19/2026 09:12:54 (663783): Check-out completed with status 0 (time 0).
+04/19/2026 09:12:55 (663783): Recheck started ....
+04/19/2026 09:12:55 (663783):   Checking feature Xcelium_Single_Core
+04/19/2026 09:12:55 (663783):   Time spent in server Recheck was 0.
+04/19/2026 09:12:55 (663783): Re-check completed with status 0 (time 0).
+04/19/2026 09:12:55 (663783): Recheck started ....
+04/19/2026 09:12:55 (663783):   Actual recheck skipped due to recheck interval...
+04/19/2026 09:12:55 (663783): Re-check completed with status 0 (time 0).
+04/19/2026 09:12:55 (663783): Recheck started ....
+04/19/2026 09:12:55 (663783):   Actual recheck skipped due to recheck interval...
+04/19/2026 09:12:55 (663783): Re-check completed with status 0 (time 0).
+04/19/2026 09:12:55 (663783): Recheck started ....
+04/19/2026 09:12:55 (663783):   Actual recheck skipped due to recheck interval...
+04/19/2026 09:12:55 (663783): Re-check completed with status 0 (time 0).
+04/19/2026 09:12:55 (663783): Check-in started ....
+04/19/2026 09:12:55 (663783): Creating a new job ...
+04/19/2026 09:12:55 (663783): Validating server path: 5280@srv01
+04/19/2026 09:12:55 (663783): Server path validation status: 0
+04/19/2026 09:12:55 (663783):   Configuration of license path is '5280@srv01'.
+04/19/2026 09:12:55 (663783):   Configuration of recheck interval minimum is 290.
+04/19/2026 09:12:55 (663783):   Configuration of 2000000000 maximum retry calls.
+04/19/2026 09:12:55 (663783):   Configuration of sleep time value of 0.
+04/19/2026 09:12:55 (663783):   Configuration of display specification is ':15.0'.
+04/19/2026 09:12:55 (663783): Storage of server list started...
+04/19/2026 09:12:55 (663783): Server list saved with status 0 (time 0).
+04/19/2026 09:12:55 (663783):   Licenses will be checked out using EQ07@srv01(:15.0).
+04/19/2026 09:12:55 (663783):   (System spec would have been EQ07@srv01(/dev/pts/29) )
+04/19/2026 09:12:55 (663783):   Using license server srv01.
+04/19/2026 09:12:55 (663783): Job creation completed with status 0 (time 0).
+04/19/2026 09:12:55 (663783): Check-in of Xcelium_Single_Core completed with status 0 (time 0).
+04/19/2026 09:12:55 (663783): Exit started ....
+04/19/2026 09:12:55 (663783): Creating a new job ...
+04/19/2026 09:12:55 (663783): Validating server path: 5280@srv01
+04/19/2026 09:12:55 (663783): Server path validation status: 0
+04/19/2026 09:12:55 (663783):   Configuration of license path is '5280@srv01'.
+04/19/2026 09:12:55 (663783):   Configuration of recheck interval minimum is 290.
+04/19/2026 09:12:55 (663783):   Configuration of 2000000000 maximum retry calls.
+04/19/2026 09:12:55 (663783):   Configuration of sleep time value of 0.
+04/19/2026 09:12:55 (663783):   Configuration of display specification is ':15.0'.
+04/19/2026 09:12:55 (663783): Storage of server list started...
+04/19/2026 09:12:55 (663783): Server list saved with status 0 (time 0).
+04/19/2026 09:12:55 (663783):   Licenses will be checked out using EQ07@srv01(:15.0).
+04/19/2026 09:12:55 (663783):   (System spec would have been EQ07@srv01(/dev/pts/29) )
+04/19/2026 09:12:55 (663783):   Using license server srv01.
+04/19/2026 09:12:55 (663783): Job creation completed with status 0 (time 0).
+04/19/2026 09:12:55 (663783): Exit completed with status 0 (time 0).
